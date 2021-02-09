@@ -15,37 +15,14 @@
     <atom:link href="https://jay-jajj.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>재쯔의 기록사이트입니다.</description>
-    <pubDate>Tue, 09 Feb 2021 07:32:33 GMT</pubDate>
+    <pubDate>Tue, 09 Feb 2021 08:51:25 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>안녕하세요 여러분! (Hello guys!)</title>
-      <link>https://jay-jajj.github.io/2021/02/09/hello-world/</link>
-      <guid>https://jay-jajj.github.io/2021/02/09/hello-world/</guid>
-      <pubDate>Tue, 09 Feb 2021 06:56:35 GMT</pubDate>
-      
-      <description>&lt;h2 id=&quot;첫글입니다-👏👏👏👏&quot;&gt;&lt;a href=&quot;#첫글입니다-👏👏👏👏&quot; class=&quot;headerlink&quot; title=&quot;첫글입니다. 👏👏👏👏&quot;&gt;&lt;/a&gt;첫글입니다. 👏👏👏👏&lt;/h2&gt;&lt;p&gt;먼저 만나뵈서 반갑습니다.&lt;br&gt;저는 재쯔(jay-jajj)라고 합니다.&lt;/p&gt;</description>
-      
-      
-      
-      <content:encoded><![CDATA[<h2 id="첫글입니다-👏👏👏👏"><a href="#첫글입니다-👏👏👏👏" class="headerlink" title="첫글입니다. 👏👏👏👏"></a>첫글입니다. 👏👏👏👏</h2><p>먼저 만나뵈서 반갑습니다.<br>저는 재쯔(jay-jajj)라고 합니다.</p><a id="more"></a><p>기록할 사이트를 찾다가 티스토리, velog 여기저기 고민하다가<br>hexo 가 눈에띄어서 (<del>여기서부터 잘못되었지</del>) 테마도 괜찮길레 ‘가자!’ 했습니다.  </p><blockquote><p>도움을 받은 사이트<br><a href="https://kinetic.codes/2020/03/06/build-blog-with-hexo-github/">kinetic님 블로그</a></p></blockquote><p>사이트들에 포스팅 된글은 오류없이 척척 해결해 나가고 내가 겪은 에러는 찾아볼수없고 어찌 그리 다들 잘 풀리시는지…<br>눈물로 검색하며 보낸 시간들 😢😢 어찌 어찌 해결했다만 왜 되는지도 모르겠고  </p><p>hexo로 블로그를 만든다고 엄청나게 고생하고 고생하다가 어느정도 포기(?)<br>음…. 아냐<br>타협하고 글을 쓰면서 최적화를 해나가야 겠다는 생각이 들어 글을<br>쓰게 되었네요.<br>자주 들러주세요.🤗🤗🤗(<del>애드고시 통과해보게</del>)</p>]]></content:encoded>
-      
-      
-      <category domain="https://jay-jajj.github.io/categories/other/">other</category>
-      
-      
-      <category domain="https://jay-jajj.github.io/tags/%EC%B2%AB%EA%B8%80/">첫글</category>
-      
-      
-      <comments>https://jay-jajj.github.io/2021/02/09/hello-world/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
       <title>변수, 호이스팅, TDZ(Temporal Dead Zone)</title>
-      <link>https://jay-jajj.github.io/2021/01/26/js/%EB%B3%80%EC%88%98,%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85,%20TDZ/</link>
-      <guid>https://jay-jajj.github.io/2021/01/26/js/%EB%B3%80%EC%88%98,%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85,%20TDZ/</guid>
-      <pubDate>Tue, 26 Jan 2021 06:08:37 GMT</pubDate>
+      <link>https://jay-jajj.github.io/2021/02/09/js/%EB%B3%80%EC%88%98,%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85,%20tdz/</link>
+      <guid>https://jay-jajj.github.io/2021/02/09/js/%EB%B3%80%EC%88%98,%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85,%20tdz/</guid>
+      <pubDate>Tue, 09 Feb 2021 08:51:15 GMT</pubDate>
       
       <description>&lt;h2 id=&quot;변태수-죄송합니다&quot;&gt;&lt;a href=&quot;#변태수-죄송합니다&quot; class=&quot;headerlink&quot; title=&quot;변태수 (죄송합니다.)&quot;&gt;&lt;/a&gt;변&lt;del&gt;태&lt;/del&gt;수 (죄송합니다.)&lt;/h2&gt;&lt;p&gt;변수는 다들 알겠지만 변하는 수를 말하죠.&lt;br&gt;뭔소리야&lt;br&gt;싶으시겠지만…&lt;/p&gt;</description>
       
@@ -68,7 +45,30 @@
       <category domain="https://jay-jajj.github.io/tags/es6/">es6</category>
       
       
-      <comments>https://jay-jajj.github.io/2021/01/26/js/%EB%B3%80%EC%88%98,%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85,%20TDZ/#disqus_thread</comments>
+      <comments>https://jay-jajj.github.io/2021/02/09/js/%EB%B3%80%EC%88%98,%20%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85,%20tdz/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>안녕하세요 여러분! (Hello guys!)</title>
+      <link>https://jay-jajj.github.io/2021/02/09/hello-world/</link>
+      <guid>https://jay-jajj.github.io/2021/02/09/hello-world/</guid>
+      <pubDate>Tue, 09 Feb 2021 06:56:35 GMT</pubDate>
+      
+      <description>&lt;h2 id=&quot;첫글입니다-👏👏👏👏&quot;&gt;&lt;a href=&quot;#첫글입니다-👏👏👏👏&quot; class=&quot;headerlink&quot; title=&quot;첫글입니다. 👏👏👏👏&quot;&gt;&lt;/a&gt;첫글입니다. 👏👏👏👏&lt;/h2&gt;&lt;p&gt;먼저 만나뵈서 반갑습니다.&lt;br&gt;저는 재쯔(jay-jajj)라고 합니다.&lt;/p&gt;</description>
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="첫글입니다-👏👏👏👏"><a href="#첫글입니다-👏👏👏👏" class="headerlink" title="첫글입니다. 👏👏👏👏"></a>첫글입니다. 👏👏👏👏</h2><p>먼저 만나뵈서 반갑습니다.<br>저는 재쯔(jay-jajj)라고 합니다.</p><a id="more"></a><p>기록할 사이트를 찾다가 티스토리, velog 여기저기 고민하다가<br>hexo 가 눈에띄어서 (<del>여기서부터 잘못되었지</del>) 테마도 괜찮길레 ‘가자!’ 했습니다.  </p><blockquote><p>도움을 받은 사이트<br><a href="https://kinetic.codes/2020/03/06/build-blog-with-hexo-github/">kinetic님 블로그</a></p></blockquote><p>사이트들에 포스팅 된글은 오류없이 척척 해결해 나가고 내가 겪은 에러는 찾아볼수없고 어찌 그리 다들 잘 풀리시는지…<br>눈물로 검색하며 보낸 시간들 😢😢 어찌 어찌 해결했다만 왜 되는지도 모르겠고  </p><p>hexo로 블로그를 만든다고 엄청나게 고생하고 고생하다가 어느정도 포기(?)<br>음…. 아냐<br>타협하고 글을 쓰면서 최적화를 해나가야 겠다는 생각이 들어 글을<br>쓰게 되었네요.<br>자주 들러주세요.🤗🤗🤗(<del>애드고시 통과해보게</del>)</p>]]></content:encoded>
+      
+      
+      <category domain="https://jay-jajj.github.io/categories/other/">other</category>
+      
+      
+      <category domain="https://jay-jajj.github.io/tags/%EC%B2%AB%EA%B8%80/">첫글</category>
+      
+      
+      <comments>https://jay-jajj.github.io/2021/02/09/hello-world/#disqus_thread</comments>
       
     </item>
     
