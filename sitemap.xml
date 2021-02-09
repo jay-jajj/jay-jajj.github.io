@@ -4,12 +4,22 @@
 
     <sitemap>
         <loc>https://jay-jajj.github.io/post-sitemap.xml</loc>
-        <lastmod>2021-02-09T05:04:45.256Z</lastmod>
+        <lastmod>2021-02-09T07:41:15.796Z</lastmod>
     </sitemap>
 
     <sitemap>
         <loc>https://jay-jajj.github.io/page-sitemap.xml</loc>
-        <lastmod>2021-02-09T05:15:07.836Z</lastmod>
+        <lastmod>2021-02-09T06:56:51.447Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://jay-jajj.github.io/category-sitemap.xml</loc>
+        <lastmod>2021-02-09T07:41:15.796Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://jay-jajj.github.io/tag-sitemap.xml</loc>
+        <lastmod>2021-02-09T07:41:15.796Z</lastmod>
     </sitemap>
 
 </sitemapindex>
